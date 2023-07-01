@@ -4,7 +4,7 @@ S3 is used to store the terraform state file. S3 is used in conjuction with Dyna
 
 ## How to run the project
 
-First, [clone the git repo](git@github.com:prophius/paycontactless_portal_web.git).
+First, [clone the git repo](https://github.com/Chinweoke18/s3-backend.git).
 access the folder "s3-backend"
 Execute the following terraform cammand
 
